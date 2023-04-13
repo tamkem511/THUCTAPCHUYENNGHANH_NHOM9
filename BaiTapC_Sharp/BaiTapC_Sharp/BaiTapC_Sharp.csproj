@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="NguyenDucTuan\" />
     <Folder Include="NguyenPhuongAnh\" />
-    <Folder Include="NguyenThuHong\" />
   </ItemGroup>
 
 </Project>
